@@ -1,0 +1,12 @@
+Tiles.Jade.MapEntry: Jade
+
+Items: {
+	MirrorMirror: {
+		DisplayName: Mirror Mirror
+		Tooltip:
+			'''
+			Provides access to the glass world. 
+			Don't break it!
+			'''
+	}
+}
