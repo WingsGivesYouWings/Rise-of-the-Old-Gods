@@ -7,11 +7,17 @@
 	<PropertyGroup>
 		
 	</PropertyGroup>
-	<ItemGroup>
-	  <Folder Include="Core\" />
-	  <Folder Include="Stuff\SubWorld\" />
-	</ItemGroup>
 
 	<!-- References -->
-
+	<ItemGroup>
+		<Content Include="Assets\Textures\**\*png" />
+	</ItemGroup>
+	<ItemGroup>
+	  <AdditionalFiles Remove="Assets\Textures\Items\AbyssalStoneItem.png" />
+	  <AdditionalFiles Remove="Assets\Textures\Items\JadeOreItem.png" />
+	  <AdditionalFiles Remove="Assets\Textures\Tiles\AbyssalStoneTile.png" />
+	</ItemGroup>
+	<ItemGroup>
+	  <Folder Include="Content\World Generation\" />
+	</ItemGroup>
 </Project>

@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "89eRGCa1wo8=",
+  "dgSpecHash": "R0UlMJPvO9Y=",
   "success": true,
-  "projectFilePath": "C:\\Users\\gordo\\Documents\\My Games\\Terraria\\tModLoader\\modsources\\RiseoftheOldGods\\RiseoftheOldGods.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\gordo\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\david\\OneDrive\\Documentos\\My Games\\Terraria\\tModLoader\\ModSources\\RiseoftheOldGods\\RiseoftheOldGods.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
