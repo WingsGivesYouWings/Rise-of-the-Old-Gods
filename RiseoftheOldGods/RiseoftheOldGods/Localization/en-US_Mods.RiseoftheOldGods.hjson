@@ -1,0 +1,11 @@
+Items: {
+	AbyssalStoneItem: {
+		DisplayName: Abyssal Stone Item
+		Tooltip: ""
+	}
+
+	JadeOreItem: {
+		DisplayName: Jade Ore Item
+		Tooltip: ""
+	}
+}
