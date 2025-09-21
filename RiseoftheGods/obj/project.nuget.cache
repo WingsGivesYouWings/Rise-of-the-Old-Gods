@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "zbJ2YedpsVI=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\david\\Rise-of-the-Old-Gods\\RiseoftheGods\\RiseoftheGods.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1105",
+      "level": "Error",
+      "message": "Unable to read project information for 'RiseoftheGods': Invalid framework identifier ''."
+    }
+  ]
+}
