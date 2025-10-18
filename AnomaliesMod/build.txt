@@ -1,0 +1,5 @@
+displayName = Anomalies Mod
+author = Wings
+version = 0.1
+modReferences = SubworldLibrary
+weaskReferences = MonoStereoMod

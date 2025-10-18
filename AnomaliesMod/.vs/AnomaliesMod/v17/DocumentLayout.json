@@ -1,0 +1,184 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\david\\OneDrive\\Documentos\\My Games\\Terraria\\tModLoader\\ModSources\\AnomaliesMod\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F3A8DEA-6211-188B-9E14-DBBE404E6171}|AnomaliesMod.csproj|c:\\users\\david\\onedrive\\documentos\\my games\\terraria\\tmodloader\\modsources\\anomaliesmod\\build.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9F3A8DEA-6211-188B-9E14-DBBE404E6171}|AnomaliesMod.csproj|solutionrelative:build.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F3A8DEA-6211-188B-9E14-DBBE404E6171}|AnomaliesMod.csproj|c:\\users\\david\\onedrive\\documentos\\my games\\terraria\\tmodloader\\modsources\\anomaliesmod\\localization\\en-us\\mods.anomaliesmod.projectiles.hjson||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9F3A8DEA-6211-188B-9E14-DBBE404E6171}|AnomaliesMod.csproj|solutionrelative:localization\\en-us\\mods.anomaliesmod.projectiles.hjson||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F3A8DEA-6211-188B-9E14-DBBE404E6171}|AnomaliesMod.csproj|c:\\users\\david\\onedrive\\documentos\\my games\\terraria\\tmodloader\\modsources\\anomaliesmod\\localization\\en-us\\mods.anomaliesmod.items.hjson||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9F3A8DEA-6211-188B-9E14-DBBE404E6171}|AnomaliesMod.csproj|solutionrelative:localization\\en-us\\mods.anomaliesmod.items.hjson||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F3A8DEA-6211-188B-9E14-DBBE404E6171}|AnomaliesMod.csproj|c:\\users\\david\\onedrive\\documentos\\my games\\terraria\\tmodloader\\modsources\\anomaliesmod\\lib\\monostereo.dependencies.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{9F3A8DEA-6211-188B-9E14-DBBE404E6171}|AnomaliesMod.csproj|solutionrelative:lib\\monostereo.dependencies.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F3A8DEA-6211-188B-9E14-DBBE404E6171}|AnomaliesMod.csproj|c:\\users\\david\\onedrive\\documentos\\my games\\terraria\\tmodloader\\modsources\\anomaliesmod\\anomaliesmod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F3A8DEA-6211-188B-9E14-DBBE404E6171}|AnomaliesMod.csproj|solutionrelative:anomaliesmod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F3A8DEA-6211-188B-9E14-DBBE404E6171}|AnomaliesMod.csproj|c:\\users\\david\\onedrive\\documentos\\my games\\terraria\\tmodloader\\modsources\\anomaliesmod\\core\\sound\\soundutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F3A8DEA-6211-188B-9E14-DBBE404E6171}|AnomaliesMod.csproj|solutionrelative:core\\sound\\soundutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F3A8DEA-6211-188B-9E14-DBBE404E6171}|AnomaliesMod.csproj|c:\\users\\david\\onedrive\\documentos\\my games\\terraria\\tmodloader\\modsources\\anomaliesmod\\core\\sound\\soundloopmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F3A8DEA-6211-188B-9E14-DBBE404E6171}|AnomaliesMod.csproj|solutionrelative:core\\sound\\soundloopmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F3A8DEA-6211-188B-9E14-DBBE404E6171}|AnomaliesMod.csproj|c:\\users\\david\\onedrive\\documentos\\my games\\terraria\\tmodloader\\modsources\\anomaliesmod\\core\\world\\modcustomscenes\\testing\\krakenthemetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F3A8DEA-6211-188B-9E14-DBBE404E6171}|AnomaliesMod.csproj|solutionrelative:core\\world\\modcustomscenes\\testing\\krakenthemetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F3A8DEA-6211-188B-9E14-DBBE404E6171}|AnomaliesMod.csproj|c:\\users\\david\\onedrive\\documentos\\my games\\terraria\\tmodloader\\modsources\\anomaliesmod\\core\\world\\modcustomscenes\\testing\\krakenthemetestsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F3A8DEA-6211-188B-9E14-DBBE404E6171}|AnomaliesMod.csproj|solutionrelative:core\\world\\modcustomscenes\\testing\\krakenthemetestsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F3A8DEA-6211-188B-9E14-DBBE404E6171}|AnomaliesMod.csproj|c:\\users\\david\\onedrive\\documentos\\my games\\terraria\\tmodloader\\modsources\\anomaliesmod\\core\\world\\worldgensystem\\jadeoregensystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F3A8DEA-6211-188B-9E14-DBBE404E6171}|AnomaliesMod.csproj|solutionrelative:core\\world\\worldgensystem\\jadeoregensystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "build.txt",
+              "DocumentMoniker": "C:\\Users\\david\\OneDrive\\Documentos\\My Games\\Terraria\\tModLoader\\ModSources\\AnomaliesMod\\build.txt",
+              "RelativeDocumentMoniker": "build.txt",
+              "ToolTip": "C:\\Users\\david\\OneDrive\\Documentos\\My Games\\Terraria\\tModLoader\\ModSources\\AnomaliesMod\\build.txt",
+              "RelativeToolTip": "build.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-10-17T21:50:25.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Mods.AnomaliesMod.Items.hjson",
+              "DocumentMoniker": "C:\\Users\\david\\OneDrive\\Documentos\\My Games\\Terraria\\tModLoader\\ModSources\\AnomaliesMod\\Localization\\en-US\\Mods.AnomaliesMod.Items.hjson",
+              "RelativeDocumentMoniker": "Localization\\en-US\\Mods.AnomaliesMod.Items.hjson",
+              "ToolTip": "C:\\Users\\david\\OneDrive\\Documentos\\My Games\\Terraria\\tModLoader\\ModSources\\AnomaliesMod\\Localization\\en-US\\Mods.AnomaliesMod.Items.hjson",
+              "RelativeToolTip": "Localization\\en-US\\Mods.AnomaliesMod.Items.hjson",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-10-17T21:35:35.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Mods.AnomaliesMod.Projectiles.hjson",
+              "DocumentMoniker": "C:\\Users\\david\\OneDrive\\Documentos\\My Games\\Terraria\\tModLoader\\ModSources\\AnomaliesMod\\Localization\\en-US\\Mods.AnomaliesMod.Projectiles.hjson",
+              "RelativeDocumentMoniker": "Localization\\en-US\\Mods.AnomaliesMod.Projectiles.hjson",
+              "ToolTip": "C:\\Users\\david\\OneDrive\\Documentos\\My Games\\Terraria\\tModLoader\\ModSources\\AnomaliesMod\\Localization\\en-US\\Mods.AnomaliesMod.Projectiles.hjson",
+              "RelativeToolTip": "Localization\\en-US\\Mods.AnomaliesMod.Projectiles.hjson",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-10-17T21:34:41.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AnomaliesMod.cs",
+              "DocumentMoniker": "C:\\Users\\david\\OneDrive\\Documentos\\My Games\\Terraria\\tModLoader\\ModSources\\AnomaliesMod\\AnomaliesMod.cs",
+              "RelativeDocumentMoniker": "AnomaliesMod.cs",
+              "ToolTip": "C:\\Users\\david\\OneDrive\\Documentos\\My Games\\Terraria\\tModLoader\\ModSources\\AnomaliesMod\\AnomaliesMod.cs",
+              "RelativeToolTip": "AnomaliesMod.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T17:00:28.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SoundUtils.cs",
+              "DocumentMoniker": "C:\\Users\\david\\OneDrive\\Documentos\\My Games\\Terraria\\tModLoader\\ModSources\\AnomaliesMod\\Core\\Sound\\SoundUtils.cs",
+              "RelativeDocumentMoniker": "Core\\Sound\\SoundUtils.cs",
+              "ToolTip": "C:\\Users\\david\\OneDrive\\Documentos\\My Games\\Terraria\\tModLoader\\ModSources\\AnomaliesMod\\Core\\Sound\\SoundUtils.cs",
+              "RelativeToolTip": "Core\\Sound\\SoundUtils.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T02:28:26.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MonoStereo.Dependencies.dll",
+              "DocumentMoniker": "C:\\Users\\david\\OneDrive\\Documentos\\My Games\\Terraria\\tModLoader\\ModSources\\AnomaliesMod\\lib\\MonoStereo.Dependencies.dll",
+              "RelativeDocumentMoniker": "lib\\MonoStereo.Dependencies.dll",
+              "ToolTip": "C:\\Users\\david\\OneDrive\\Documentos\\My Games\\Terraria\\tModLoader\\ModSources\\AnomaliesMod\\lib\\MonoStereo.Dependencies.dll",
+              "RelativeToolTip": "lib\\MonoStereo.Dependencies.dll",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001697|",
+              "WhenOpened": "2025-10-16T20:26:03.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SoundLoopManager.cs",
+              "DocumentMoniker": "C:\\Users\\david\\OneDrive\\Documentos\\My Games\\Terraria\\tModLoader\\ModSources\\AnomaliesMod\\Core\\Sound\\SoundLoopManager.cs",
+              "RelativeDocumentMoniker": "Core\\Sound\\SoundLoopManager.cs",
+              "ToolTip": "C:\\Users\\david\\OneDrive\\Documentos\\My Games\\Terraria\\tModLoader\\ModSources\\AnomaliesMod\\Core\\Sound\\SoundLoopManager.cs",
+              "RelativeToolTip": "Core\\Sound\\SoundLoopManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T17:41:56.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "KrakenThemeTest.cs",
+              "DocumentMoniker": "C:\\Users\\david\\OneDrive\\Documentos\\My Games\\Terraria\\tModLoader\\ModSources\\AnomaliesMod\\Core\\World\\ModCustomScenes\\Testing\\KrakenThemeTest.cs",
+              "RelativeDocumentMoniker": "Core\\World\\ModCustomScenes\\Testing\\KrakenThemeTest.cs",
+              "ToolTip": "C:\\Users\\david\\OneDrive\\Documentos\\My Games\\Terraria\\tModLoader\\ModSources\\AnomaliesMod\\Core\\World\\ModCustomScenes\\Testing\\KrakenThemeTest.cs",
+              "RelativeToolTip": "Core\\World\\ModCustomScenes\\Testing\\KrakenThemeTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T22:09:18.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "KrakenthemeTestSystem.cs",
+              "DocumentMoniker": "C:\\Users\\david\\OneDrive\\Documentos\\My Games\\Terraria\\tModLoader\\ModSources\\AnomaliesMod\\Core\\World\\ModCustomScenes\\Testing\\KrakenthemeTestSystem.cs",
+              "RelativeDocumentMoniker": "Core\\World\\ModCustomScenes\\Testing\\KrakenthemeTestSystem.cs",
+              "ToolTip": "C:\\Users\\david\\OneDrive\\Documentos\\My Games\\Terraria\\tModLoader\\ModSources\\AnomaliesMod\\Core\\World\\ModCustomScenes\\Testing\\KrakenthemeTestSystem.cs",
+              "RelativeToolTip": "Core\\World\\ModCustomScenes\\Testing\\KrakenthemeTestSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T01:51:40.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "JadeOreGenSystem.cs",
+              "DocumentMoniker": "C:\\Users\\david\\OneDrive\\Documentos\\My Games\\Terraria\\tModLoader\\ModSources\\AnomaliesMod\\Core\\World\\WorldGenSystem\\JadeOreGenSystem.cs",
+              "RelativeDocumentMoniker": "Core\\World\\WorldGenSystem\\JadeOreGenSystem.cs",
+              "ToolTip": "C:\\Users\\david\\OneDrive\\Documentos\\My Games\\Terraria\\tModLoader\\ModSources\\AnomaliesMod\\Core\\World\\WorldGenSystem\\JadeOreGenSystem.cs",
+              "RelativeToolTip": "Core\\World\\WorldGenSystem\\JadeOreGenSystem.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAACwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T17:36:46.578Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
