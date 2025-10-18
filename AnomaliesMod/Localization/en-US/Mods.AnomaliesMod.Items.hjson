@@ -1,0 +1,37 @@
+AbyssalStoneItem: {
+	DisplayName: Abyssal Stone
+	Tooltip:
+		'''
+		A solid piece of oceanic basalt rock,
+		huming in it lie echoes from a forgotten era
+		'''
+}
+
+JadeOreItem: {
+	DisplayName: Jade Ore
+	Tooltip:
+		'''
+		An ordinary-looking gem conceals the hidden power 
+		to channel impressive amounts of magic beneeth the surface
+		'''
+}
+
+SilkySandBlockItem: {
+	DisplayName: Silky Sand Block
+	Tooltip:
+		'''
+		A prehistoric block of shining sand, shaped by eons of erosion and 
+		the relentless pull of the open ocean. Buried within it lie billions 
+		of years of forgotten history, lost to time
+		'''
+}
+
+KrakenThemeTesting: {
+	DisplayName: Kraken Theme Testing
+	Tooltip: ""
+}
+
+SilkySandBlockWallItem: {
+	DisplayName: Silky Sand Block Wall Item
+	Tooltip: ""
+}
