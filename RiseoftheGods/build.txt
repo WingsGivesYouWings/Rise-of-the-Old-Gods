@@ -1,3 +1,0 @@
-displayName = Rise of the Gods
-author = Wings
-version = 0.1
